@@ -8,5 +8,7 @@
 ## Perspective 2 - COPPA is good (NG)
   Many people, including Obama and his Administration support the Children's Online Privacy Policy. People who believe that COPPA is a good thing have supporting evidence supporting it. Parents are scared of the lack of online security provided on sites that kids may visit. “The 'Obama Administration' imposed sweeping changes in regulations designed to protect a generation with extremely easy access to the internet.” says USA TODAY. Other than government support, COPPA also gains support from parents as well. Others support for COPPA is bolstered by what COPPA offers for their kids safety. Alison Pohn says that if you’re going to play in the kids arena you have to offer safety. Along with other parents who center their support towards COPPA, Alison Pohn cares about the safety of her children.
 
-## Conclusion (WIP)
+## Conclusion
+  COPPA was put into effect with little insight on the effect it may have on both sides. COPPA hurts people who rely heavily on online content that may not be as successful with COPPA in play. COPPA will prevent third party sites from collecting cookies on children who visit their site. If COPPA stays the way it is major companies such as YouTube could go bankrupt or the people who depend on it.
+
 
