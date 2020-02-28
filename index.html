@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+  
+  </head>
+<body>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+  <script>
+  var potato;
+  function reqListener () {
+  console.log(this.responseText);
+  document.getElementById('content').innerHTML = this.responseText;
+  
+}
+
+  var oReq = new XMLHttpRequest();
+  oReq.addEventListener("load", reqListener);
+  oReq.open("GET", "https://raw.githubusercontent.com/MrDiamond123/AWebsiteThatExists/master/COPPA.md");
+  oReq.send();
+  
+ 
+  </script>
+
+</body>
+
+
+</html>
