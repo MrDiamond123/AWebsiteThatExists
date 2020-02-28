@@ -11,7 +11,7 @@
   var potato;
   function reqListener () {
   console.log(this.responseText);
-  document.getElementById('content').innerHTML = this.responseText;
+  document.getElementById('content').innerHTML = marked(this.responseText);
   
 }
 
